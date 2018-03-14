@@ -720,12 +720,12 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/260056121",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
@@ -733,7 +733,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Ligue para nós ou entre em contato pelo Whatsapp.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"tel:02141135937\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>21 4113 5937</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://api.whatsapp.com/send?phone=5521966111544\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>21 96611 1544</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"tel:02141135937\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>21 4113 5937</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://api.whatsapp.com/send?phone=5521966111544\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>21 96611 1544</a>",
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/electrician-1368309-2000x1333.jpg",
@@ -793,7 +794,7 @@
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoUrl": "https://www.player.vimeo.com/video/259623341?title=0&portrait=0&byline=0&autoplay=1&loop=1",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
@@ -801,11 +802,12 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/drawing-2284505-2000x1125.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
