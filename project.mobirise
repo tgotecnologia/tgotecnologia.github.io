@@ -787,7 +787,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7036117-server-ethernet-cables-1920x1200.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -797,14 +797,14 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "IMAGE SLIDE",
+                "title": "REDES (CABLING)",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/drawing-2284505-2000x1125.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -814,7 +814,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "IMAGE SLIDE",
+                "title": "PROJETOS",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
