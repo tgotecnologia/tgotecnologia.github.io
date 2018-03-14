@@ -715,7 +715,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "4000",
+            "slides__autoplayInterval": "5000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -734,7 +734,7 @@
                 "contentAlign": "center",
                 "text": "Ligue para nós ou entre em contato pelo Whatsapp.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"tel:02141135937\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>21 4113 5937</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://api.whatsapp.com/send?phone=5521966111544\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>21 96611 1544</a>",
-                "overlayOpacity": "0.5"
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/electrician-1368309-2000x1333.jpg",
