@@ -55,8 +55,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home - TGO Tecnologia",
-        "meta_descr": "",
+        "title": "TGO Tecnologia - Solucionando com Qualidade",
+        "meta_descr": "A TGO Tecnologia vem garantindo para seus clientes, Sistemas Prediais e Residências estáveis, e com muita segurança!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1288,8 +1288,8 @@
     },
     "servicos.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Serviços - TGO Tecnologia",
+        "meta_descr": "A TGO Tecnologia vem garantindo para seus clientes, Sistemas Prediais e Residências estáveis, e com muita segurança!",
+        "title": "TGO Tecnologia - Solucionando com Qualidade",
         "order": 1
       },
       "components": [
@@ -1947,8 +1947,8 @@
     },
     "contato.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
-        "title": "Contato - TGO Tecnologia",
+        "meta_descr": "A TGO Tecnologia vem garantindo para seus clientes, Sistemas Prediais e Residências estáveis, e com muita segurança!",
+        "title": "TGO Tecnologia - Solucionando com Qualidade",
         "order": 2
       },
       "components": [
